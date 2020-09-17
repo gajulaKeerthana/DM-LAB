@@ -1,0 +1,15 @@
+% my data 
+
+@relation student
+
+@attribute studID numeric
+@attribute name string
+@attribute hostelName string
+@attribute phone numeric
+@attribute roomNumber numeric
+
+@data
+514,Kirthana,Saudamini,7337246405,403
+530,Nymisha,Saudamini,7337246405,403
+558,Meghana,Saudamini,7337246405,307
+570,Nithya,Saudamini,9515813523,307
